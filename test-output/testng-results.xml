@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T14:44:08 EDT" name="Suite" finished-at="2023-05-30T14:45:42 EDT" duration-ms="94431">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T14:44:08 EDT" name="Test" finished-at="2023-05-30T14:45:42 EDT" duration-ms="94431">
+      <class name="com.Orange.HrmTest.ContactDetailsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.ContactDetailsPageTest@2ea41516]" started-at="2023-05-30T14:45:05 EDT" name="setup" finished-at="2023-05-30T14:45:11 EDT" duration-ms="5636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contact_Entry()[pri:1, instance:com.Orange.HrmTest.ContactDetailsPageTest@2ea41516]" started-at="2023-05-30T14:45:11 EDT" name="contact_Entry" finished-at="2023-05-30T14:45:38 EDT" duration-ms="27230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_Entry -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.ContactDetailsPageTest@2ea41516]" started-at="2023-05-30T14:45:38 EDT" name="setup" finished-at="2023-05-30T14:45:42 EDT" duration-ms="4016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pop_up()[pri:2, instance:com.Orange.HrmTest.ContactDetailsPageTest@2ea41516]" started-at="2023-05-30T14:45:42 EDT" name="pop_up" finished-at="2023-05-30T14:45:42 EDT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pop_up -->
+      </class> <!-- com.Orange.HrmTest.ContactDetailsPageTest -->
+      <class name="com.Orange.HrmTest.IndexPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:30 EDT" name="setup" finished-at="2023-05-30T14:44:36 EDT" duration-ms="6129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orangeHrm_Logo()[pri:0, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:36 EDT" name="orangeHrm_Logo" finished-at="2023-05-30T14:44:39 EDT" duration-ms="3204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrm_Logo -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:39 EDT" name="setup" finished-at="2023-05-30T14:44:47 EDT" duration-ms="7744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="adminTabClick()[pri:2, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:47 EDT" name="adminTabClick" finished-at="2023-05-30T14:44:52 EDT" duration-ms="5383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTabClick -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:52 EDT" name="setup" finished-at="2023-05-30T14:44:58 EDT" duration-ms="5902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleCheck()[pri:3, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:58 EDT" name="titleCheck" finished-at="2023-05-30T14:44:58 EDT" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:44:58 EDT" name="setup" finished-at="2023-05-30T14:45:05 EDT" duration-ms="7158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="urlCheck()[pri:4, instance:com.Orange.HrmTest.IndexPageTest@6e0f5f7f]" started-at="2023-05-30T14:45:05 EDT" name="urlCheck" finished-at="2023-05-30T14:45:05 EDT" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlCheck -->
+      </class> <!-- com.Orange.HrmTest.IndexPageTest -->
+      <class name="com.Orange.HrmTest.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.LoginPageTest@434a63ab]" started-at="2023-05-30T14:44:22 EDT" name="setup" finished-at="2023-05-30T14:44:27 EDT" duration-ms="5127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:1, instance:com.Orange.HrmTest.LoginPageTest@434a63ab]" started-at="2023-05-30T14:44:27 EDT" name="loginTest" finished-at="2023-05-30T14:44:30 EDT" duration-ms="2497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.Orange.HrmTest.LoginPageTest -->
+      <class name="com.Orange.HrmTest.MyInfoPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.MyInfoPageTest@383bfa16]" started-at="2023-05-30T14:44:08 EDT" name="setup" finished-at="2023-05-30T14:44:12 EDT" duration-ms="4413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="myInfoTest()[pri:5, instance:com.Orange.HrmTest.MyInfoPageTest@383bfa16]" started-at="2023-05-30T14:44:12 EDT" name="myInfoTest" finished-at="2023-05-30T14:44:14 EDT" duration-ms="2134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myInfoTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.HrmTest.MyInfoPageTest@383bfa16]" started-at="2023-05-30T14:44:14 EDT" name="setup" finished-at="2023-05-30T14:44:17 EDT" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contactDetailsClick()[pri:6, instance:com.Orange.HrmTest.MyInfoPageTest@383bfa16]" started-at="2023-05-30T14:44:17 EDT" name="contactDetailsClick" finished-at="2023-05-30T14:44:22 EDT" duration-ms="4501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactDetailsClick -->
+      </class> <!-- com.Orange.HrmTest.MyInfoPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
